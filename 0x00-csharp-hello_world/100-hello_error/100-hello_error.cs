@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace _3_writeline
+namespace _100_hello_error
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\"Programming is like building a multilingual puzzle");
+            Console.WriteLine("Hello World!");
         }
     }
 }
