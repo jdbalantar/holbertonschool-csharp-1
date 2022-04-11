@@ -6,7 +6,9 @@ namespace _100_hello_error
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+		string str = "and that piece of art is useful - Dora Korpar, 2015-10-19";
+        Console.Error.WriteLine($"{str}");
+        Environment.Exit(1);
         }
     }
 }
