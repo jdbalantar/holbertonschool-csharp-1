@@ -23,4 +23,3 @@ class _12_fizzbuzz
         }
     }
 }
-
