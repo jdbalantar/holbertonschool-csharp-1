@@ -11,13 +11,14 @@ class Array
             Console.WriteLine("Index out of range");
             return array;
         }
-        for (i = 0; i < array.Length; i++)
-        {
-            if (array[i] == index)
-            {
-                array[i] = n;
-            }
-        }
+        // for (i = 0; i < array.Length; i++)
+        // {
+        //     if (array[i] == index)
+        //     {
+        //         array[i] = n;
+        //     }
+        // }
+        array[index] = n;
         return array;
     }
 }
