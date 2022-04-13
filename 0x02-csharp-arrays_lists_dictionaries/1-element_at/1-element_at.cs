@@ -13,7 +13,6 @@ class Array
         }
         for (i = 0; i < array.Length; i++)
         {
-            array[i] = index;
             if (array[i] == array[index])
                 value = array[index];
         }
