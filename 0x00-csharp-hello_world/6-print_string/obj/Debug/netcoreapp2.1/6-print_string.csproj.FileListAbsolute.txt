@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.deps.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.dll
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/bin/Debug/netcoreapp2.1/6-print_string.pdb
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.dll
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/6-print_string/obj/Debug/netcoreapp2.1/6-print_string.pdb

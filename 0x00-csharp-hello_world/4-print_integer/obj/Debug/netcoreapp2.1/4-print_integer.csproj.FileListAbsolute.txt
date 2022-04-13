@@ -1,0 +1,11 @@
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.deps.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.runtimeconfig.dev.json
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.dll
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/bin/Debug/netcoreapp2.1/4-print_integer.pdb
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csprojAssemblyReference.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.csproj.CoreCompileInputs.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfoInputs.cache
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.AssemblyInfo.cs
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.dll
+/mnt/d/Informacion/Documentos/Holberton/holbertonschool-csharp/Prueba/4-print_integer/obj/Debug/netcoreapp2.1/4-print_integer.pdb
