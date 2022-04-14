@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+class List
+{
+    public static int MaxInteger(List<int> myList)
+    {
+        if (myList == null)
+        {
+            Console.WriteLine("List is empty");
+        }
+        return myList.Max();
+    }
+}
