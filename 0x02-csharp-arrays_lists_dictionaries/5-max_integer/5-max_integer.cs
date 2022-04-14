@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 class List
 {
@@ -11,6 +10,7 @@ class List
             Console.WriteLine("List is empty");
             return (-1);
         }
-        return myList.Max();
+        myList.Sort();
+        return (myList[myList.Count - 1]);
     }
 }
