@@ -7,27 +7,26 @@ class MyStack
     {
         Console.WriteLine("Number of items: {0}", aStack.Count);
 
-        if (aStack.Count <= 0)
-        {
-            Console.WriteLine("Stack is empty");
-        }
-        else
-        {
+        if (aStack.Count != 0)
             Console.WriteLine("Top item: {0}", aStack.Peek());
-        }
+        else
+            Console.WriteLine("Stack is empty");
+
+        bool contains = aStack.Contains(search);
+
+        Console.WriteLine("Stack contains \"{0}\": {1}", search, contains);
+
+        Stack<string> newStack = new Stack<string>(aStack);
 
         if (aStack.Contains(search))
         {
-            Console.WriteLine("Stack contains \"{0}\": True", search);
-            while (aStack.Contains(search))
-                aStack.Pop();
-        }
-        else
-        {
-            Console.WriteLine("Stack contains \"{0}\": False", search);
+            foreach (var item in newStack)
+            {
+                if (aStack.Pop() == search)
+                    break;
+            }
         }
         aStack.Push(newItem);
         return (aStack);
-
     }
 }
