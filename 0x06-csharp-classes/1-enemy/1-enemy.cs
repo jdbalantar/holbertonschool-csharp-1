@@ -1,13 +1,12 @@
 using System;
-
 namespace Enemies
 {
-    /// <summary> Class Zombie </summary>
-    public class Zombies
+    /// <summary>  Class Zombie </summary>
+    public class Zombie 
     {
-        /// <summary> health should be an int and have no value </summary>
+        /// <summary> should be an int and have no value </summary>
         public int health;
-        /// <summary> Construct Method of Zombie class</summary>
+        /// <summary> Method Constructor that inicialize health value</summary>
         public Zombie()
         {
             health = 0;
