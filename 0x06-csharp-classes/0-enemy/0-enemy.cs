@@ -1,9 +1,9 @@
 ﻿using System;
 namespace Enemies
 {
-    /// <summary>Empty Class Zombie</summary>
-    public class Zombie
+    /// <summary> Empty Class Zombie </summary>
+    public class Zombie 
     {
-
+        
     }
 }
