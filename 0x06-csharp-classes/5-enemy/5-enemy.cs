@@ -32,6 +32,6 @@ namespace Enemies
             return health;
         }
         /// <summary> This method retrieve all variables </summary>
-        override public string ToString()=> $"Zombie Name: {this.name} / Total health: {health}";
+        public override  string ToString()=> $"Zombie Name: {name} / Total health: {health}";
     }
 }
