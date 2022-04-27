@@ -32,6 +32,9 @@ namespace Enemies
             return health;
         }
         /// <summary> This method retrieve all variables </summary>
-        public override  string ToString()=> $"Zombie Name: {name} / Total health: {health}";
+        public override  string ToString()
+        {
+            return String.Format($"Zombie Name: {name} / Total Health: {health}");
+        }
     }
 }
